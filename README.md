@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there  :sunglasses::rocket:
+<br>
 
-<!--
-**tomjn7/tomjn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Antonio Nery I'm in development in programming languages
+<br>
 
-Here are some ideas to get you started:
+📫 How to reach me: <a>https://instagram.com/tomjn7?igshid=ZDdkNTZiNTM=</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Connect with me:
+
+ <a href="//instagram.com/tomjn7?igshid=ZDdkNTZiNTM=">
+ 
+  <img  align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;" >
+
+</a>
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomjn7)](https://github.com/anuraghazra/github-readme-stats)
+
+
