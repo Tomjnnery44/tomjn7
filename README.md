@@ -1,7 +1,9 @@
 ### Hi there  :sunglasses::rocket:
 <br>
 
-Hi, I'm Antonio Nery I'm in development in programming languages
+Hi, I'm Antonio Nery I'm in development in programming languages,I'm currently learning to create projects with:
+<br>
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 <br>
 
 📫 How to reach me: <a>https://instagram.com/tomjn7?igshid=ZDdkNTZiNTM=</a>
