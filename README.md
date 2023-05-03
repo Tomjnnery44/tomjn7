@@ -25,9 +25,9 @@ Connect with me:
 
  <a href="//instagram.com/tomjn7?igshid=ZDdkNTZiNTM=">
  
-  <img  align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-" >
  
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+" alt="instagram-logo" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 
                                                                                           
  
